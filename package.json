@@ -1,0 +1,30 @@
+{
+  "name": "n1n2",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Number one or number 2?",
+  "main": "index.js",
+  "repository": "https://github.com/vinicius5581/n1n2",
+  "author": "Vinicius Santana",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-scripts": "2.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
